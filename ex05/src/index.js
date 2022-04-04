@@ -18,4 +18,4 @@ console.log("sum from addFive: " + suma);
 module.exports = {
     addThree,
     addFive
-}
+};

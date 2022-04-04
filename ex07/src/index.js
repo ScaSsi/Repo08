@@ -3,10 +3,10 @@ var dress = "little dress";
 
 function myDress() {
     dress = "ball gown";
-    return console.log(dress);
+    return dress;
 }
 
-myDress();
+console.log(myDress());
 // Write code above this line
 
 module.exports = myDress;
