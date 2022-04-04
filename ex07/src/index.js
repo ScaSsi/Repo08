@@ -3,7 +3,7 @@ var dress = "little dress";
 
 function myDress() {
     dress = "ball gown";
-    return dress;
+    return console.log(dress);
 }
 
 myDress();
