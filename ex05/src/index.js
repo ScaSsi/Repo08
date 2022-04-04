@@ -10,9 +10,9 @@ function addFive() {
 }
 
 addThree()
-console.log("addThree: " + suma);
+console.log("sum from addThree: " + suma);
 addFive()
-console.log("addFive: " + suma);
+console.log("sum from addFive: " + suma);
 // Write code above this line
 
 module.exports = {
