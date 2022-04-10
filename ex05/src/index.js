@@ -1,14 +1,14 @@
 // Write code below this line
-var suma = 0;
+var sum = 0;
 
 function addThree() {
-    suma = suma + 3;
-    console.log("the sum from addThree: " + suma);
+    sum = sum + 3;
+    console.log("sum from addThree: " + sum);
 }
 
 function addFive() {
-    suma = suma + 5;
-    console.log("the sum from addFive: " + suma);
+    sum = sum + 5;
+    console.log("sum from addFive: " + sum);
 }
 
 addThree();
